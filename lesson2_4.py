@@ -11,6 +11,7 @@ def calc(x):
 
 try:
     browser = webdriver.Chrome()
+    browser = webdriver.Chrome()
 
     browser.get("http://suninjuly.github.io/explicit_wait2.html")
 
